@@ -31,7 +31,7 @@ The appropriate selection of filters and the elements of rows and columns in the
 - What can you conclude about the Outcomes based on Goals?
 
 Here it can be concluded that initially the percentage of successful campaigns was quite high in comparison to the failed ones. But later on, as illustrated with the line chart, it can be seen that the percentage of successful campaigns plunged and there were more failed campaigns, specifically in the goal range of 25000 to 29999. However, this trend reversed in the following goal ranges. The gap between the successful and failed campaigns was maximum in the goal range of 45000 to 49999.
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111387025/187264327-bfbb03e8-f38d-434f-aa82-737f10430dc6.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111387025/187266742-dd66881c-2907-45ec-8380-970cf107cb2e.png)
 
 - What are some limitations of this dataset?
 

@@ -14,7 +14,7 @@ In order to fathom the outcomes based on launch dates, it was quite important to
 <img width="1440" alt="Screen Shot 2022-08-29 at 12 53 29 AM" src="https://user-images.githubusercontent.com/111387025/187262698-527629a6-74c6-4723-8eee-21b0b7968d9a.png">
 
 ### Analysis of Outcomes Based on Goals
-The outcome based on goals were analysed by finding out whether the campaigns were successful or a failure with reagrds to meeting their funding goals. For this purpose, the function 'COUNTIFS()' was used in order to draw out number of successful, failed and canceled campaigns on the selected data ranges of fundiung goals. Furthermore, based on this data the various percentages were calculated respectively. The line chart based on the combed dataset helped to have a better understanding about which months had the most successful campaigns, in contrast to the other months that were quite lagged behind.
+The outcome based on goals were analysed by finding out whether the campaigns were successful or a failure with regards to meeting their funding goals. For this purpose, the function 'COUNTIFS()' was used in order to draw out number of successful, failed and canceled campaigns on the selected data ranges of fundiung goals. Furthermore, based on this data the various percentages were calculated respectively. The line chart based on the combed dataset helped to have a better understanding about which months had the most successful campaigns, in contrast to the other months that were quite lagged behind.
 <img width="1440" alt="Screen Shot 2022-08-29 at 12 57 39 AM" src="https://user-images.githubusercontent.com/111387025/187126292-b3922077-4dae-4226-abbe-47828ea43e5e.png">
 
 ### Challenges and Difficulties Encountered
